@@ -116,7 +116,7 @@ input:focus {
     border: transparent;
     padding: 10px 20px;
     border-radius: 3px;
-    transition: background-color, box-shadow 0.5s ease-in-out;
+    transition: background-color, box-shadow 1s ease-in-out;
     cursor: pointer;
     color: rgb(255, 255, 255);
     text-shadow: 0 0 3.5px #fff,  0 0 12px #4269b8,  0 0 50px #4269b8;
